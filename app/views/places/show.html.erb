@@ -67,6 +67,9 @@
           <%= f.submit "Add a Comment", class: 'btn btn-primary' %>
         </div>
       <% end %>
+      <%= simple_form_for @photo, url: place_photos_path(@place) do |f| %>
+        <%= f.submit "Add a Picture", class: 'btn btn-primary' %>
+      <% end %>
     </div>
   </div>
 </div>
