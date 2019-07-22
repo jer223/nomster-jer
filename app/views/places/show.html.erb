@@ -126,6 +126,6 @@
 
 <div class="row">
   <% @place.photos.each do |photo| %>
+  <%= image_tag @photo.picture.url %>
   <% end %>
-  <%= @photo.picture.url %>
 </div>
