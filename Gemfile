@@ -74,7 +74,6 @@ gem 'devise'
 gem "geocoder"
 gem "figaro"
 gem 'fog-aws'
-gem "aws-sdk-s3", require: false
 
 
 source 'https://rails-assets.org' do
