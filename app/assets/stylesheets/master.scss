@@ -19,9 +19,14 @@ h1, h2, h3, h4, h5, h6 {
   padding:0;
 }
 
+.float-left {
+    float: left !important;
+    color: #f5f3f2;
+    }
+
 body {
-  background: image_url('email-pattern');
-  font-family: 'amaticbold', cursive;
+  background: image_url('fancy-cushion');
+  font-family: Cambria, "Hoefler Text", Utopia, "Liberation Serif", "Nimbus Roman No9 L Regular", Times, "Times New Roman", serif;
 }
 
 .navbar {
