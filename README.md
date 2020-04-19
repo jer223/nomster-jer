@@ -1,24 +1,34 @@
-# README
+# Nomster
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Nomster was created to allow users to share favorite dining locations. THe application is integrated with Google Map API and has features such as user comments, rating system, image uploading, and user authentication. 
 
-Things you may want to cover:
+![image](/app/assets/images/nomsterdemo1.png)
+![image](/app/assets/images/nomsterdemo2.png)
+![image](/app/assets/images/nomsterdemo3.png)
 
-* Ruby version
 
-* System dependencies
+[Visit Nomster here](https://nomster-jeremy-hall.herokuapp.com/)
 
-* Configuration
+---
 
-* Database creation
+## Getting started
 
-* Database initialization
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
-* How to run the test suite
+### Installing
 
-* Services (job queues, cache servers, search engines, etc.)
+Git clone the repository to your local machine:
 
-* Deployment instructions
+<p>HTTPS:</p><pre><code> $ https://github.com/jer223/nomster.git </code></pre>
 
-* ...
+<p>SSH:</p><pre><code> $ git@github.com:jer223/nomster.git </code></pre>
+
+## Built with:
+
+* Rails
+* Bootstrap
+* Devise
+
+## Authors
+
+Please see list of [contributors](https://github.com/jer223/nomster/graphs/contributors).
