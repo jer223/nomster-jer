@@ -2,12 +2,12 @@
 
 Nomster was created to allow users to share favorite dining locations. THe application is integrated with Google Map API and has features such as user comments, rating system, image uploading, and user authentication. 
 
+[Visit Nomster here](https://nomster-jeremy-hall.herokuapp.com/)
+
 ![image](/app/assets/images/nomsterdemo1.png)
 ![image](/app/assets/images/nomsterdemo2.png)
 ![image](/app/assets/images/nomsterdemo3.png)
 
-
-[Visit Nomster here](https://nomster-jeremy-hall.herokuapp.com/)
 
 ---
 
